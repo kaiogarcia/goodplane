@@ -17,7 +17,7 @@ Reconhecimento de imagem. <br/>
 
 <br>
 
-![](./.github/cover.png)
+![Descrição da imagem](https://raw.githubusercontent.com/vandodev/goodplate-ia/main/.github/cover.png)
 
 ## 🚀 Tecnologias
 
