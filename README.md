@@ -19,6 +19,9 @@ Reconhecimento de imagem. <br/>
 
 ![Descrição da imagem](https://raw.githubusercontent.com/vandodev/goodplate-ia/main/.github/cover.png)
 
+## 💡 Projeto
+O Good Plate é uma plataforma que utiliza tecnologias de reconhecimento de imagem para analisar os alimentos em um prato e fornecer recomendações de refeições equilibradas. Através de um aplicativo móvel ou da web, os usuários podem tirar uma foto de sua refeição, e o Good Plate identificará os alimentos presentes, calculando automaticamente a composição nutricional e oferecendo sugestões para tornar a refeição mais saudável e balanceada.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
